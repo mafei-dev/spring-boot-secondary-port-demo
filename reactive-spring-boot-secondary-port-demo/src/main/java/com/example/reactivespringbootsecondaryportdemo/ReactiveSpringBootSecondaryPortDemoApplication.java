@@ -10,5 +10,4 @@ public class ReactiveSpringBootSecondaryPortDemoApplication {
         SpringApplication.run(ReactiveSpringBootSecondaryPortDemoApplication.class,
                               args);
     }
-
 }
